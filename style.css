@@ -1,0 +1,23 @@
+.report{
+    margin-top: 20px;
+}
+.cantainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top:50px;
+    border: 2px solid black;
+}
+.weatherHeading{
+    text-align: center;
+    color: black;
+}
+.city{
+    color: red;
+    font-weight: 1000;
+}
+#spiner{
+    display: none;
+}
